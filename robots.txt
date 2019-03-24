@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nohtokaep.divelaw.com/sitemap.xml
